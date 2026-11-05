@@ -7,7 +7,7 @@
 
 
 int main(){
-    std::string name;
+    std::stringgit  name;
 
     //Taking data from the user:
     std::cout << "Enter your name: " << std::endl;
